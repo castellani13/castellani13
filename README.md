@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @castellani13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Breno Castellani, I have 17 years
+- 👀 I’m interested in programing and played games online
+- 🌱 I’m currently learning Ruby language and Go Language
+- 💞 I'm like play League of Legends and Call of Duty 
+- 📫 How to reach me, instagram: @castellani13
 
 <!---
 castellani13/castellani13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
